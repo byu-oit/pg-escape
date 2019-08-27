@@ -1,7 +1,7 @@
 {
-  "name": "pg-escape",
+  "name": "@byu-oit/pg-escape",
   "version": "0.1.1",
-  "repository": "segmentio/pg-escape",
+  "repository": "byu-oit/pg-escape",
   "description": "escape postgres queries which do not support stored procedures",
   "keywords": [
     "pg",

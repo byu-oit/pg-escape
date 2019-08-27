@@ -1,4 +1,10 @@
 
+v0.1.1 / 2017-09-27
+===================
+
+  * add declaration file
+  * fix literal function declaration
+
 v0.1.0 / 2015-04-13
 ===================
 

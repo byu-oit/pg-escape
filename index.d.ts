@@ -6,5 +6,5 @@ declare namespace escape {
     function string(val: string): string;
     function dollarQuotedString(val: string): string;
     function ident(val: string): string;
-    function literal(val: null | string | string[]): string;
+    function literal(val: null | string | number | string[]): string;
 }
